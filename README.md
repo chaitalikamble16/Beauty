@@ -1,1 +1,1 @@
-# Beauty
+# Beauty website - landing page design
